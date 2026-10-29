@@ -16,7 +16,7 @@ Get the latest available release from the repository's **Releases** section.
 
 ## Usage
 
-1. Download `NitroBooster.exe` from the available release.
+1. Download `Booster.exe` from the available release.
 2. Open the executable.
 3. Follow the options displayed in the application.
 
